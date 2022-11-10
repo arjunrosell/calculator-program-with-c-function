@@ -70,7 +70,7 @@ int main()
       {
         float num1 = 34, num2 = 3;
         float total_div = div(num1, num2);
-        printf("\Quotient of 2 numbers %.2f and %.2f", num1, num2);
+        printf("\nQuotient of 2 numbers %.2f and %.2f", num1, num2);
         printf("\nTotal Div: %.2f\n\n",total_div);
       }
       else if(choose == 5)
